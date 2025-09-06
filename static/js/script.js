@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         try {
             // Fetch API to call our backend
-            const response = await fetch("http://127.0.0.1:5000/evaluate", {
+            const response = await fetch("/evaluate", {
                 method: "POST",
                 body: formData,
             });
