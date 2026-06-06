@@ -43,3 +43,11 @@ Modern AI resume evaluation platform built with Next.js / Tailwind CSS frontend 
 - Uploads are stored in `uploads/`.
 - The backend uses SQLite by default with `dev.db`.
 - Replace `JWT_SECRET` with a secure value before production.
+  
+# Smart ATS Resume Analyzer
+
+## Live Demo
+https://smart-ats-shlf.onrender.com/
+
+## GitHub Repository
+https://github.com/Antra-light/smart-ats
